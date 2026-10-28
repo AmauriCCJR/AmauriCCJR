@@ -6,7 +6,6 @@
 💼 Atuando na **Prezensa**
 🔗 [LinkedIn](https://www.linkedin.com/in/amauri-carlos/)
 
----
 
 ## 🛠️ Tecnologias
 
