@@ -8,19 +8,6 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [**GDA**](https://github.com/AmauriCCJR/GDA) | Meu TCC no curso de Sistemas para Internet (Fatec São Roque, 2024–2026) | PHP |
-| [**flutter_architecture**](https://github.com/AmauriCCJR/flutter_architecture) | Atividade de arquitetura em Flutter | Dart |
-| [**Desenvolvimento-Para-Servidores-I**](https://github.com/AmauriCCJR/Desenvolvimento-Para-Servidores-I) | Exercícios da disciplina de desenvolvimento para servidores | Java |
-| [**Desenvolvimento-Para-Servidores-II**](https://github.com/AmauriCCJR/Desenvolvimento-Para-Servidores-II) | Projetos e CRUDs das aulas de Desenvolvimento II | HTML |
-| [**Banco-de-Dados-II**](https://github.com/AmauriCCJR/Banco-de-Dados-II) | Arquivos da disciplina de Banco de Dados II | T-SQL |
-| [**JS-3-Sem**](https://github.com/AmauriCCJR/JS-3-Sem) | Projetos de Sítios para Internet (3º semestre) | JavaScript |
-
----
-
 ## 🛠️ Tecnologias
 
 **Linguagens**
