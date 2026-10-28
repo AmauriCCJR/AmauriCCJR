@@ -2,6 +2,24 @@
 
 **Desenvolvedor Trainee** e estudante de **Sistemas para Internet** (6º e último semestre) na **Fatec São Roque** (2024–2026).
 
+### <img src="https://flagcdn.com/w40/br.png" width="28" alt="Brasil"> Português
+
+Em 2026 eu me formarei como Tecnólogo em Sistemas para Internet na Fatec São Roque. Possuo inglês avançado e em breve irei buscar aprender novos idiomas, tais como francês, japonês, chinês, italiano e, quem sabe, espanhol.
+
+Em relação às minhas relações interpessoais, acredito que me dou muito bem com todo mundo, dentro e fora do ambiente de trabalho. Gosto de trabalhar em equipe, ajudando uns aos outros.
+
+Na área de TI, sei fazer manutenção de hardware, utilizar bem o pacote Office e usar o Figma para prototipagem. Também sei fazer edição de vídeo (Premiere/Vegas) e gosto de dizer que sei utilizar até que bem o Photoshop.
+
+### <img src="https://flagcdn.com/w40/us.png" width="28" alt="EUA"> English
+
+In 2026, I will graduate with an Associate Degree in Internet Systems from Fatec São Roque. I have advanced English and plan to learn new languages soon, such as French, Japanese, Chinese, Italian, and maybe Spanish.
+
+As for interpersonal skills, I believe I get along well with everyone, both inside and outside the workplace. I enjoy teamwork and helping one another.
+
+In IT, I can perform hardware maintenance, I'm proficient with the Microsoft Office suite, and I use Figma for prototyping. I can also edit videos (Premiere/Vegas), and I like to say I'm pretty good with Photoshop.
+
+---
+
 📍 São Roque – SP, Brasil
 💼 Atuando na **Prezensa**
 🔗 [LinkedIn](https://www.linkedin.com/in/amauri-carlos/)
