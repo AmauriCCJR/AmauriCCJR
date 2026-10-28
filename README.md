@@ -1,8 +1,8 @@
-# Olá, eu sou o Amauri Carlos 👋
-
-**Desenvolvedor Trainee** e estudante de **Sistemas para Internet** (6º e último semestre) na **Fatec São Roque** (2024–2026).
+# Olá, eu sou o Amauri Carlos 👋 | Hi, I'm Amauri Carlos 👋
 
 ### <img src="https://flagcdn.com/w40/br.png" width="28" alt="Brasil"> Português
+
+**Desenvolvedor Trainee** e estudante de **Sistemas para Internet** (6º e último semestre) na **Fatec São Roque** (2024–2026).
 
 Em 2026 eu me formarei como Tecnólogo em Sistemas para Internet na Fatec São Roque. Possuo inglês avançado e em breve irei buscar aprender novos idiomas, tais como francês, japonês, chinês, italiano e, quem sabe, espanhol.
 
@@ -10,7 +10,13 @@ Em relação às minhas relações interpessoais, acredito que me dou muito bem 
 
 Na área de TI, sei fazer manutenção de hardware, utilizar bem o pacote Office e usar o Figma para prototipagem. Também sei fazer edição de vídeo (Premiere/Vegas) e gosto de dizer que sei utilizar até que bem o Photoshop.
 
-### <img src="https://flagcdn.com/w40/us.png" width="28" alt="EUA"> English
+📍 São Roque – SP, Brasil
+💼 Atuando na **Prezensa**
+🔗 [LinkedIn](https://www.linkedin.com/in/amauri-carlos/)
+
+### <img src="https://flagcdn.com/w40/us.png" width="28" alt="USA"> English
+
+**Trainee Developer** and **Internet Systems** student (6th and final semester) at **Fatec São Roque** (2024–2026).
 
 In 2026, I will graduate with an Associate Degree in Internet Systems from Fatec São Roque. I have advanced English and plan to learn new languages soon, such as French, Japanese, Chinese, Italian, and maybe Spanish.
 
@@ -18,16 +24,15 @@ As for interpersonal skills, I believe I get along well with everyone, both insi
 
 In IT, I can perform hardware maintenance, I'm proficient with the Microsoft Office suite, and I use Figma for prototyping. I can also edit videos (Premiere/Vegas), and I like to say I'm pretty good with Photoshop.
 
----
-
-📍 São Roque – SP, Brasil
-💼 Atuando na **Prezensa**
+📍 São Roque – SP, Brazil
+💼 Working at **Prezensa**
 🔗 [LinkedIn](https://www.linkedin.com/in/amauri-carlos/)
 
+---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias | Tech Stack
 
-**Linguagens**
+**Linguagens | Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,17 +42,17 @@ In IT, I can perform hardware maintenance, I'm proficient with the Microsoft Off
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks e plataformas**
+**Frameworks e plataformas | Frameworks & Platforms**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 
-**Banco de dados**
+**Banco de dados | Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Ferramentas**
+**Ferramentas | Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,13 +60,22 @@ In IT, I can perform hardware maintenance, I'm proficient with the Microsoft Off
 
 ---
 
-## 🎯 Foco atual
+## 🎯 Foco atual | Current Focus
+
+<img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil">
 
 - Concluir o TCC (GDA) e a graduação na Fatec São Roque
 - Evoluir como desenvolvedor trainee, com foco em back-end e arquitetura de software
 
+<img src="https://flagcdn.com/w40/us.png" width="20" alt="USA">
+
+- Finish my capstone project (GDA) and my degree at Fatec São Roque
+- Grow as a trainee developer, focusing on back-end and software architecture
+
 ---
 
-## 📫 Contato
+## 📫 Contato | Contact
 
-Vamos conversar? Me chame no [LinkedIn](https://www.linkedin.com/in/amauri-carlos/).
+<img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> Vamos conversar? Me chame no [LinkedIn](https://www.linkedin.com/in/amauri-carlos/).
+
+<img src="https://flagcdn.com/w40/us.png" width="20" alt="USA"> Let's talk! Reach out on [LinkedIn](https://www.linkedin.com/in/amauri-carlos/).
