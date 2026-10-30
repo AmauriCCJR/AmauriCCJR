@@ -1,4 +1,4 @@
-# Olá, eu sou o Amauri Carlos 👋 | Hi, I'm Amauri Carlos 👋
+# Opa, tudo bom? 👋 | Hey, what's up? 👋
 
 ### <img src="https://flagcdn.com/w40/br.png" width="28" alt="Brasil"> Português
 
