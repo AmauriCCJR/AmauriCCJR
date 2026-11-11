@@ -34,22 +34,37 @@ In IT, I can perform hardware maintenance, I'm proficient with the Microsoft Off
 
 **Linguagens | Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" width="64" height="64" alt="Java" /> <img src="https://skillicons.dev/icons?i=php" width="64" height="64" alt="PHP" /> <img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=dart" width="64" height="64" alt="Dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" alt="T-SQL" /> <img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS3" /><br />
-<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/java.svg" width="64" height="28" alt="Java" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/php.svg" width="64" height="28" alt="PHP" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/javascript.svg" width="64" height="28" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/dart.svg" width="64" height="28" alt="Dart" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/tsql.svg" width="64" height="28" alt="T-SQL" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/html5.svg" width="64" height="28" alt="HTML5" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/css3.svg" width="64" height="28" alt="CSS3" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-a-1.svg" width="236" height="34" alt="Frameworks e plataformas" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-a-2.svg" width="160" height="34" alt="Banco de dados" /><br />
-<img src="https://skillicons.dev/icons?i=spring" width="64" height="64" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" /> <img src="https://skillicons.dev/icons?i=azure" width="64" height="64" alt="Azure Functions" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer.svg" width="32" height="64" alt="" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" alt="SQL Server" /> <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" /><br />
-<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spring-boot.svg" width="64" height="28" alt="Spring Boot" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/flutter.svg" width="64" height="28" alt="Flutter" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/azure-functions.svg" width="64" height="28" alt="Azure Functions" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer-label.svg" width="32" height="28" alt="" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/sql-server.svg" width="64" height="28" alt="SQL Server" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/mysql.svg" width="64" height="28" alt="MySQL" />
-</p>
+**Frameworks e plataformas | Frameworks & Platforms**
 
-<p>
-<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-b-1.svg" width="304" height="34" alt="Ferramentas" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-b-2.svg" width="160" height="34" alt="Outros conhecimentos" /><br />
-<img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=figma" width="64" height="64" alt="Figma" /> <img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer.svg" width="32" height="64" alt="" /> <img src="https://skillicons.dev/icons?i=ps" width="64" height="64" alt="Photoshop" /> <img src="https://skillicons.dev/icons?i=pr" width="64" height="64" alt="Premiere" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/vegas-icon.svg" width="64" height="64" alt="Vegas" /><br />
-<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/git.svg" width="64" height="28" alt="Git" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/github.svg" width="64" height="28" alt="GitHub" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/figma.svg" width="64" height="28" alt="Figma" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/docker.svg" width="64" height="28" alt="Docker" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer-label.svg" width="32" height="28" alt="" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/photoshop.svg" width="64" height="28" alt="Photoshop" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/premiere.svg" width="64" height="28" alt="Premiere" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/vegas.svg" width="64" height="28" alt="Vegas" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+
+**Banco de dados | Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas | Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Outros conhecimentos | Other Skills**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Vegas Pro](https://img.shields.io/badge/Vegas_Pro-1C1C1C?style=for-the-badge&logoColor=white)
 
 ---
 
