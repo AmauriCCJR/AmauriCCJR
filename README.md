@@ -36,35 +36,19 @@ In IT, I can perform hardware maintenance, I'm proficient with the Microsoft Off
 
 <p>
 <img src="https://skillicons.dev/icons?i=java" width="64" height="64" alt="Java" /> <img src="https://skillicons.dev/icons?i=php" width="64" height="64" alt="PHP" /> <img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=dart" width="64" height="64" alt="Dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" alt="T-SQL" /> <img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS3" /><br />
-<img src="assets/labels/java.svg" width="64" height="28" alt="Java" /> <img src="assets/labels/php.svg" width="64" height="28" alt="PHP" /> <img src="assets/labels/javascript.svg" width="64" height="28" alt="JavaScript" /> <img src="assets/labels/dart.svg" width="64" height="28" alt="Dart" /> <img src="assets/labels/tsql.svg" width="64" height="28" alt="T-SQL" /> <img src="assets/labels/html5.svg" width="64" height="28" alt="HTML5" /> <img src="assets/labels/css3.svg" width="64" height="28" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/java.svg" width="64" height="28" alt="Java" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/php.svg" width="64" height="28" alt="PHP" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/javascript.svg" width="64" height="28" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/dart.svg" width="64" height="28" alt="Dart" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/tsql.svg" width="64" height="28" alt="T-SQL" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/html5.svg" width="64" height="28" alt="HTML5" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/css3.svg" width="64" height="28" alt="CSS3" />
 </p>
 
-**Frameworks e plataformas | Frameworks & Platforms**
-
 <p>
-<img src="https://skillicons.dev/icons?i=spring" width="64" height="64" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" /> <img src="https://skillicons.dev/icons?i=azure" width="64" height="64" alt="Azure Functions" /><br />
-<img src="assets/labels/spring-boot.svg" width="64" height="28" alt="Spring Boot" /> <img src="assets/labels/flutter.svg" width="64" height="28" alt="Flutter" /> <img src="assets/labels/azure-functions.svg" width="64" height="28" alt="Azure Functions" />
+<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-a-1.svg" width="236" height="34" alt="Frameworks e plataformas" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-a-2.svg" width="160" height="34" alt="Banco de dados" /><br />
+<img src="https://skillicons.dev/icons?i=spring" width="64" height="64" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" /> <img src="https://skillicons.dev/icons?i=azure" width="64" height="64" alt="Azure Functions" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer.svg" width="32" height="64" alt="" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" alt="SQL Server" /> <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" /><br />
+<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spring-boot.svg" width="64" height="28" alt="Spring Boot" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/flutter.svg" width="64" height="28" alt="Flutter" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/azure-functions.svg" width="64" height="28" alt="Azure Functions" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer-label.svg" width="32" height="28" alt="" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/sql-server.svg" width="64" height="28" alt="SQL Server" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/mysql.svg" width="64" height="28" alt="MySQL" />
 </p>
 
-**Banco de dados | Database**
-
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64" alt="SQL Server" /> <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" /><br />
-<img src="assets/labels/sql-server.svg" width="64" height="28" alt="SQL Server" /> <img src="assets/labels/mysql.svg" width="64" height="28" alt="MySQL" />
-</p>
-
-**Ferramentas | Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=figma" width="64" height="64" alt="Figma" /> <img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" /><br />
-<img src="assets/labels/git.svg" width="64" height="28" alt="Git" /> <img src="assets/labels/github.svg" width="64" height="28" alt="GitHub" /> <img src="assets/labels/figma.svg" width="64" height="28" alt="Figma" /> <img src="assets/labels/docker.svg" width="64" height="28" alt="Docker" />
-</p>
-
-**Outros conhecimentos | Other Skills**
-
-<p>
-<img src="https://skillicons.dev/icons?i=ps" width="64" height="64" alt="Photoshop" /> <img src="https://skillicons.dev/icons?i=pr" width="64" height="64" alt="Premiere" /><br />
-<img src="assets/labels/photoshop.svg" width="64" height="28" alt="Photoshop" /> <img src="assets/labels/premiere.svg" width="64" height="28" alt="Premiere" />
+<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-b-1.svg" width="304" height="34" alt="Ferramentas" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/head-b-2.svg" width="160" height="34" alt="Outros conhecimentos" /><br />
+<img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=figma" width="64" height="64" alt="Figma" /> <img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer.svg" width="32" height="64" alt="" /> <img src="https://skillicons.dev/icons?i=ps" width="64" height="64" alt="Photoshop" /> <img src="https://skillicons.dev/icons?i=pr" width="64" height="64" alt="Premiere" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/vegas-icon.svg" width="64" height="64" alt="Vegas" /><br />
+<img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/git.svg" width="64" height="28" alt="Git" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/github.svg" width="64" height="28" alt="GitHub" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/figma.svg" width="64" height="28" alt="Figma" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/docker.svg" width="64" height="28" alt="Docker" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/spacer-label.svg" width="32" height="28" alt="" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/photoshop.svg" width="64" height="28" alt="Photoshop" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/premiere.svg" width="64" height="28" alt="Premiere" /> <img src="https://raw.githubusercontent.com/AmauriCCJR/AmauriCCJR/main/assets/labels/vegas.svg" width="64" height="28" alt="Vegas" />
 </p>
 
 ---
